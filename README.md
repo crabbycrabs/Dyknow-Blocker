@@ -1,2 +1,2 @@
 # Dyknow Disabler
-Block Dyknow Tracking Website
+Block/Temporarily Disable Dyknow Tracking Website
