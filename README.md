@@ -1,2 +1,2 @@
-# Dyknow-Blocker
+# Dyknow Disabler
 Block Dyknow Tracking Website
